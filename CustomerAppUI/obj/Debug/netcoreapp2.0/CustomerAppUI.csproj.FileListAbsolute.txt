@@ -1,0 +1,15 @@
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.csproj.CoreCompileInputs.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.AssemblyInfoInputs.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.AssemblyInfo.cs
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.csprojResolveAssemblyReference.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.deps.json
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.runtimeconfig.json
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.runtimeconfig.dev.json
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppUI.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppBLL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppDAL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppBLL.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\bin\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppUI\obj\Debug\netcoreapp2.0\CustomerAppUI.pdb

@@ -1,0 +1,9 @@
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\bin\Debug\netcoreapp2.0\CustomerAppDAL.deps.json
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\bin\Debug\netcoreapp2.0\CustomerAppDAL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\bin\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\obj\Debug\netcoreapp2.0\CustomerAppDAL.csproj.CoreCompileInputs.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\obj\Debug\netcoreapp2.0\CustomerAppDAL.AssemblyInfoInputs.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\obj\Debug\netcoreapp2.0\CustomerAppDAL.AssemblyInfo.cs
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\obj\Debug\netcoreapp2.0\CustomerAppDAL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\obj\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppDAL\obj\Debug\netcoreapp2.0\CustomerAppDAL.csprojResolveAssemblyReference.cache

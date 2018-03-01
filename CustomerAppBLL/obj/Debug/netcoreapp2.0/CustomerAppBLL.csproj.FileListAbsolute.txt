@@ -1,0 +1,11 @@
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.csprojResolveAssemblyReference.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.csproj.CoreCompileInputs.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.AssemblyInfoInputs.cache
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.AssemblyInfo.cs
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppBLL.deps.json
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppBLL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppBLL.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppDAL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\bin\Debug\netcoreapp2.0\CustomerAppDAL.pdb
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.dll
+D:\Aldrin\_2018\CustomerApp\CustomerAppUI\CustomerAppBLL\obj\Debug\netcoreapp2.0\CustomerAppBLL.pdb
